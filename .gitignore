@@ -1,3 +1,4 @@
+*.docx
 *.pptx
 *data_preprocessing.ipynb
 group_work/project_eda.ipynb
