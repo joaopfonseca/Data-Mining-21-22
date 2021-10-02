@@ -2,6 +2,7 @@
 *.pptx
 *data_preprocessing.ipynb
 group_work/project_eda.ipynb
+figures/*
 
 # Data files
 *.csv
