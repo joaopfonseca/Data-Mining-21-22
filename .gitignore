@@ -3,9 +3,6 @@
 *data_preprocessing.ipynb
 group_work/project_eda.ipynb
 
-# Data files
-*.csv
-
 # Mac junk
 .DS_Store
 
